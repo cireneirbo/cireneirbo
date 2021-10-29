@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on `>>>` [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System)
-- 🌱 I’m currently learning `>>>` `Express.js, React, and Shell.`
+- 🌱 I’m currently learning `>>>` `Express.js, React, and Node.js.`
 - 👯 I’m looking to collaborate on `>>>` `open-source projects with an emphasis on user privacy, transparency, and decentralization.`
 <!--
 - 🤔 I’m looking for help with ...
