@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on `>>>` 
-    - [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System)
-    - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com)
-    - [turtles-in-a-whole-shell](https://github.com/cireneirbo/turtles-in-a-whole-shell)
+    - [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System) - full-stack ReactJS/ExpressJS app using NASA API.
+    - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com) - ReactJS portfolio webpage.
+    - [turtles-in-a-whole-shell](https://github.com/cireneirbo/turtles-in-a-whole-shell) - full-stack ReactJS/ExpressJS app.
 - 🌱 I’m currently learning `>>>` `Express.js, React, and Node.js.`
 - 👯 I’m looking to collaborate on `>>>` `open-source projects with an emphasis on user privacy, transparency, and decentralization.`
 - 💬 Ask me about `>>>` `collaborating on something!`
