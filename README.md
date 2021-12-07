@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on `>>>` [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System)
+- 🔭 I’m currently working on `>>>` 
+    - [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System)
+    - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com)
+    - [turtles-in-a-whole-shell](https://github.com/cireneirbo/turtles-in-a-whole-shell)
 - 🌱 I’m currently learning `>>>` `Express.js, React, and Node.js.`
 - 👯 I’m looking to collaborate on `>>>` `open-source projects with an emphasis on user privacy, transparency, and decentralization.`
 - 💬 Ask me about `>>>` `collaborating on something!`
