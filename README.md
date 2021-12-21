@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on `>>>` 
     - [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System) - full-stack ReactJS/ExpressJS app using NASA API.
-    - [our-search-for-life](https://github.com/cireneirbo/our-search-for-life) - a MERN stack app that uses MAST API to look for exo-planets in the Milky Way galaxy.
     - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com) - ReactJS portfolio webpage.
     - [turtles-in-a-whole-shell](https://github.com/cireneirbo/turtles-in-a-whole-shell) - full-stack ReactJS/ExpressJS app.
 - 🌱 I’m currently learning `>>>` `MongoDB, Express.js, React.js, and Node.js.`
