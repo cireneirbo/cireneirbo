@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on `>>>` 
     - [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System) - full-stack ReactJS/ExpressJS app using NASA API.
     - [uncommon-grounds-cafe](https://github.com/cireneirbo/uncommon-grounds-cafe) - A fictional coffee shop's website.
-    - [rubber-tramp-reserve](https://github.com/cireneirbo/rubber-tramp-reserve) - A source of useful resources for rubber tramps and travelers..
+    - [rubber-tramp-reserve](https://github.com/cireneirbo/rubber-tramp-reserve) - A source of useful resources for rubber tramps and travelers.
     - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com) - ReactJS portfolio webpage.
 - 🌱 I’m currently learning `>>>` `Express.js, React.js, and Node.js.`
 - 🐱‍🏍 Feel free to make pull requests on my [free-to-use-API-list](https://github.com/cireneirbo/free-to-use-API-list)!
