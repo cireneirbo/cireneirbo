@@ -13,3 +13,10 @@
 - 📫 How to reach me `>>>` `email is best:` ericobrien89@gmail.com
 - 😄 Pronouns `>>>` `he/him`
 - ⚡ Fun fact `>>>` `I am a pretty good guitarist and have been in a bunch of bands.`
+- My hackathon projects:
+    - Dev.to DeepGram 2022
+    - Dev.to MongoDB 2022
+    - Hacktoberfest 2021
+    - Hacktoberfest 2020
+    - Repl.it New Languages 2020
+    - Suncoast Developer's Guild 2020
