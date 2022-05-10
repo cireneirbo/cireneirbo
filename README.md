@@ -14,9 +14,9 @@
 - 😄 Pronouns `>>>` `he/him`
 - ⚡ Fun fact `>>>` `I am a pretty good guitarist and have been in a bunch of bands.`
 - My hackathon projects:
-    - Dev.to DeepGram 2022
-    - Dev.to MongoDB 2022
+    - [Dev.to DeepGram 2022](https://developers.deepgram.com/events/dev-to-hackathon-2022/) - [The Red Rectangle Press]()
+    - [Dev.to MongoDB 2022](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m) - [Identifloracation]()
     - Hacktoberfest 2021
     - Hacktoberfest 2020
-    - Repl.it New Languages 2020
-    - Suncoast Developer's Guild 2020
+    - [Repl.it Programming Language Jam 2020](https://replit.com/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105) - [Parseltongue]()
+    - [Suncoast Developer's Guild 2020](https://hack.suncoast.io/) - [Airwinfi]()
