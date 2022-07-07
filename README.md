@@ -19,4 +19,4 @@
     - 2021 [Hacktoberfest](https://www.digitalocean.com/blog/hacktoberfest-is-back-2021) - [Discord Bot of Hacktoberfest 2021](https://github.com/cireneirbo/discord-bot-of-hacktoberfest-2021)
     - 2020 [Hacktoberfest](https://www.digitalocean.com/blog/announcing-hacktoberfest-2020)
     - 2020 [Repl.it Programming Language Jam](https://replit.com/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105) - [Parseltongue](https://github.com/cireneirbo/parseltongue)
-    - 2020 [Suncoast Developer's Guild](https://hack.suncoast.io/) - [Airwinfi](https://github.com/cireneirbo/airwinfi)
+    - 2020 [Suncoast Developer's Guild](https://hack.suncoast.io/) - project: [Airwinfi](https://github.com/cireneirbo/airwinfi)
