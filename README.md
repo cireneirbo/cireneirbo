@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on `>>>` open-source projects that care about the end-user's privacy and digital rights. It is my firm belief that code should be used to improve the quality of life for all of the inhabitants of this wonderful world.
 - 💬 Ask me about `>>>` freelancing services I offer, or even teaming up for a hackathon!
 - 📫 How to reach me `>>>` email is best: `ericobrien89@gmail.com`
-- 😄 Pronouns `>>>``he/him
+- 😄 Pronouns `>>>`he/him
 - ⚡ Fun fact `>>>` I am a pretty good guitarist and have been in a bunch of bands.
 - My hackathon projects:
     - 2022 [Dev.to DeepGram](https://developers.deepgram.com/events/dev-to-hackathon-2022/) - project: [The Red Rectangle Press](https://github.com/cireneirbo/the-red-rectangle-press)
