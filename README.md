@@ -14,7 +14,7 @@
 - 😄 Pronouns `>>>`he/him
 - ⚡ Fun fact `>>>` I am a pretty good guitarist and have been in a bunch of bands.
 - My hackathon projects:
-    - 2022 Hacktoberfest
+    - 2022 [Hacktoberfest](https://hacktoberfest.com/)
     - 2022 [Dev.to DeepGram](https://developers.deepgram.com/events/dev-to-hackathon-2022/) - project: [The Red Rectangle Press](https://github.com/cireneirbo/the-red-rectangle-press)
     - 2022 [Dev.to MongoDB](https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m) - project: [Identifloracation](https://github.com/cireneirbo/identi-flora-cation)
     - 2021 [Hacktoberfest](https://www.digitalocean.com/blog/hacktoberfest-is-back-2021) - project: [Discord Bot of Hacktoberfest 2021](https://github.com/cireneirbo/discord-bot-of-hacktoberfest-2021)
