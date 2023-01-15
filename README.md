@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on `>>>` 
-    - [Earth Observation System](https://github.com/cireneirbo/Earth-Observation-System) - full-stack ReactJS/ExpressJS app using NASA API.
     - [email-support-center](https://github.com/cireneirbo/email-support-center) - A secure backend that send me emails.
     - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com) - ReactJS portfolio webpage.
     - [cireneirbo blog]() - MERN stack personal blog and professional services storefront.
