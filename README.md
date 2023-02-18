@@ -5,6 +5,7 @@
     - [email-support-center](https://github.com/cireneirbo/email-support-center) - A secure backend that send me emails.
     - [cireneirbo.com](https://github.com/cireneirbo/cireneirbo.com) - ReactJS portfolio webpage.
     - [cireneirbo blog]() - MERN stack personal blog and professional services storefront.
+    - Some private repos. Shhh ;)
 - 🌱 I’m currently learning `>>>` Express.js, React.js, and Node.js.
 - 🐱‍🏍 Feel free to make pull requests on my [free-to-use-API-list](https://github.com/cireneirbo/free-to-use-API-list)!
 - 👯 I’m looking to collaborate on `>>>` open-source projects that care about the end-user's privacy and digital rights. It is my firm belief that code should be used to improve the quality of life for all of the inhabitants of this wonderful world.
